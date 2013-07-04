@@ -10,4 +10,14 @@ Framework for this project:
 4. Database: Sqlite3
 5. Frontend: jQuery + bootstrap
 
+Object:
+1. Restaurant
+2. User
+3. Order
+
+Function:
+1. Restaurant: classification
+2. User: login, logout, share restaurant, order
+3: Order: search by time 
+
 rdragon, lz, weapon
